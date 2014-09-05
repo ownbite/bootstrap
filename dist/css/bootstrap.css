@@ -6192,6 +6192,9 @@ button.close {
 .navbar-custom .search {
   padding: 8px 0;
 }
+.navotron-content button {
+  outline: none !important;
+}
 .navotron-content .navbar {
   border-bottom: 1px solid #CCC;
 }
