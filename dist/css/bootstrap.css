@@ -6512,15 +6512,6 @@ button.close {
     display: none !important;
   }
 }
-.navbar-custom {
-  padding: 20px 0;
-}
-.navbar-custom .navbar-brand {
-  font-size: 30px;
-}
-.navbar-custom .search {
-  padding: 8px 0;
-}
 .navotron-content button {
   outline: none !important;
 }
