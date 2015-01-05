@@ -6520,12 +6520,16 @@ button.close {
   border-bottom: 1px solid #CCC;
 }
 /* UI-TREE */
+.angular-ui-tree .toggle {
+  margin-right: 6px;
+}
 .angular-ui-tree .tree-node-content {
-  margin: 10px;
+  padding: 8px;
+  border-bottom: 1px solid #dae2ea;
 }
 .angular-ui-tree .tree-handle {
-  padding: 10px;
-  background: #428bca;
+  padding: 8px;
+  background: #56AAF4;
   color: #FFF;
   margin-right: 10px;
 }
@@ -6533,8 +6537,7 @@ button.close {
   background: #EEE;
 }
 .angular-ui-tree .tree-node {
-  border: 1px solid #dae2ea;
-  background: #f8faff;
+  background: #EEE;
   color: #7c9eb2;
   cursor: pointer;
 }
