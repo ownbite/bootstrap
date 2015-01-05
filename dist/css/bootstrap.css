@@ -6525,7 +6525,7 @@ button.close {
 }
 .angular-ui-tree .tree-node-content {
   padding: 8px;
-  border-bottom: 1px solid #dae2ea;
+  border-top: 1px solid #dae2ea;
 }
 .angular-ui-tree .tree-handle {
   padding: 8px;
@@ -6537,7 +6537,6 @@ button.close {
   background: #EEE;
 }
 .angular-ui-tree .tree-node {
-  background: #EEE;
   color: #7c9eb2;
   cursor: pointer;
 }
