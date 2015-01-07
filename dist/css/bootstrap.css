@@ -6522,6 +6522,12 @@ button.close {
 .navotron-content .navbar {
   border-bottom: 1px solid #CCC;
 }
+.infobar {
+  border-top: 1px solid #CCC;
+  background-color: #EEE;
+  position: absolute;
+  bottom: 0px;
+}
 /* UI-TREE */
 .angular-ui-tree .toggle {
   margin-right: 6px;
